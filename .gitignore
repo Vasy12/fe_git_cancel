@@ -1,2 +1,4 @@
-# ignore .idea dir in work directory root
-/.idea/
+# ignore all hidden files and folders
+.*
+# don't ignore .gitignore file
+!.gitignore
